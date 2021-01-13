@@ -1,4 +1,2 @@
 # APTRG-KALKULATOR
-OPEN REQ. HACKING .
-
-YOU CAN CALL ME IN PAGE FACEBOOK Anonymous Cyber Surakarta
+thanks very simple code c#
